@@ -150,9 +150,8 @@ The easiest way to deploy this Next.js app is to use the
 
 ## 📋 License
 
-**Three.js 3D Portfolio** is open source software
-[licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
-[LICENSE](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE) for more details.
+This project is open source software
+[licensed as MIT](https://opensource.org/license/mit/) and is free to use
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
