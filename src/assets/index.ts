@@ -31,7 +31,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Nexcent from "./projects/nexcent.jpg";
 import Logoipsum from "./projects/logo-ipsum.jpg";
-import Invoice from "./projects/Invoice.jpg";
+import Invoice from "./projects/invoice.jpg";
 import DashboardApp from "./projects/DashboardApp.jpg";
 import Dems from "./projects/dems.jpg";
 
