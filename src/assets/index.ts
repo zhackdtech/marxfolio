@@ -29,7 +29,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import Nexcent from "./projects/Nexcent.jpg";
+import Nexcent from "./projects/nexcent.jpg";
 import Logoipsum from "./projects/logo-ipsum.jpg";
 import Invoice from "./projects/Invoice.jpg";
 import DashboardApp from "./projects/DashboardApp.jpg";
