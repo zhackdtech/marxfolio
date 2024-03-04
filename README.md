@@ -12,14 +12,9 @@
 - 📫 How to reach me **wilmarx.cayabyab@gmail.com**
 
 
-## 🌐 Live Demo
-
-Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
-
 ## 📝 Description
 
-**3D Portfolio** is a well-designed and fully functional portfolio website that is built with
+**Marxfolio** is a well-designed and fully functional portfolio website that is built with
 React.js and Three.js. It is a fully responsive website that works well on all devices.
 
 </details>
