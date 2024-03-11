@@ -97,7 +97,7 @@ const experiences: TExperience[] = [
     companyName: 'TESDA LLDA - PTC',
     icon: backend,
     iconBg: '#E6DEDD',
-    date: 'Aug 2023 - Present',
+    date: 'June 2023 - Dec 2023',
     points: [
       'Accurately encode data into the company database, ensuring that all information is entered correctly and in a timely manner.',
       'Verify data by comparing it to source documents, and check for any discrepancies or errors before entry.',
